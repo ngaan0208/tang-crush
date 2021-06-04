@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Bae à!',
+    introDesc: `Cái gì cậu cũng biết
+    Mỗi việc tớ thích cậu là cậu khong biết :> `,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    title: 'cảm ơn cậu vì đã ở trong một góc nhỏ của thế giới',
+    desc: 'tìm thấy tớ <333 ',
+    btnYes: 'tớ cũng thích cậu kakaka <33',
+    btnNo: 'cậu rất tốt nhưng tớ rất tiếc :< ',
+    question:'Trên thế giới hơn 7 tỉ người mà sao cậu lại thích tớ nèk <3',
+    btnReply: 'Gửi cho tớ <3',
+    reply: 'vì cậu dễ thương cute phô mai que quá hihihi <33333333',
+    mess: 'tớ biết mà 🥰. cậu cũng dễ thương xỉu lun ó 😘😘',
+    messDesc: '  mai mình đi chơi nhé!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
